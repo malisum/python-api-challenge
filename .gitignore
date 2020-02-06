@@ -1,7 +1,7 @@
-dir_to_ignore/.ipynb_checkpoints
-dir_to_ignore/__pycache__
-dir_to_ignore/WeatherPy/SourceCode/.ipynb_checkpoints
-dir_to_ignore/WeatherPy/SourceCode/__pycache__
-dir_to_ignore/VacationPy/SourceCode/.ipynb_checkpoints
-dir_to_ignore/VacationPy/SourceCode/__pycache__
+/.ipynb_checkpoints/
+/__pycache__/
+/WeatherPy/SourceCode/.ipynb_checkpoints/
+/WeatherPy/SourceCode/__pycache__/
+/VacationPy/SourceCode/.ipynb_checkpoints/
+/VacationPy/SourceCode/__pycache__/
 api_keys_save.py
